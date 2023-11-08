@@ -6,5 +6,6 @@ DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,miyoushe.com
 # 其他直连域名
 DOMAIN-SUFFIX,lizhi.shop
+DOMAIN-SUFFIX,connect.rom.miui.com
 # 进程
 PROCESS-NAME,miaospeed.exe
