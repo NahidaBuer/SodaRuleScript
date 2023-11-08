@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,miyoushe.com
+# 其他直连域名
+DOMAIN-SUFFIX,lizhi.shop
+# 进程
+PROCESS-NAME,miaospeed.exe
