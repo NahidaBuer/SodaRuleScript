@@ -4,8 +4,12 @@ DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,miyoushe.com
+# Taptap
+DOMAIN-SUFFIX,tap.io
+# MIUI
+DOMAIN-SUFFIX,connect.rom.miui.com
+DOMAIN-SUFFIX,saxyit.com # MIUI ROM CDN
 # 其他直连域名
 DOMAIN-SUFFIX,lizhi.shop
-DOMAIN-SUFFIX,connect.rom.miui.com
 # 进程
 PROCESS-NAME,miaospeed.exe
