@@ -7,7 +7,3 @@ DOMAIN-SUFFIX,miyoushe.com
 # MIUI
 DOMAIN-SUFFIX,connect.rom.miui.com
 DOMAIN-SUFFIX,saxyit.com
-# 其他直连域名
-DOMAIN-SUFFIX,lizhi.shop
-# 进程
-PROCESS-NAME,miaospeed.exe

@@ -1,0 +1,7 @@
+# 其他直连域名
+DOMAIN-SUFFIX,lizhi.shop
+# 进程
+PROCESS-NAME,miaospeed.exe
+PROCESS-NAME,miaospeed
+PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,zerotier-one_x64.exe
